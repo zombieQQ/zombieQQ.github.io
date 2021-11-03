@@ -53,10 +53,10 @@ http.logout().logoutSuccessUrl("/");
 
 ![05NM}}JVF3FS1%)J@VBMT7V](https://user-images.githubusercontent.com/47177498/139818026-91db1960-52a6-48d1-8508-ebd4e815ab23.png)
 
-### 最终首页：
+### 3.最终首页：
 ![(GG)Q TO% QB)7(MNDGSJ)W](https://user-images.githubusercontent.com/47177498/139818173-eb94c266-9f40-44db-b03c-b07237b87043.png)
 
-# shiro
+# Shiro
 ## 一.注销功能：
 ### 1. config:
 /* / 是代表首页的意思 */
