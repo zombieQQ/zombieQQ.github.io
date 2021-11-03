@@ -72,8 +72,8 @@ http.logout().logoutSuccessUrl("/");
 ![LGHUJ_PF%GD2 21TSXR1AG3](https://user-images.githubusercontent.com/47177498/140008127-2a928006-d8af-4518-ae30-7842cd249964.png)
 导入shiro依赖   去maven  repository官网添加shiro-core版本号  添加log4j的配置文件
 
-![11]( https://github.com/apache/shiro/tree/main/samples/quickstart"shrio-core")
-![11]( https://mvnrepository.com/artifact/org.apache.shiro/shiro-core"shrio-core")
+[git shiro-core]( https://github.com/apache/shiro/tree/main/samples/quickstart"shrio-core")
+[core]( https://mvnrepository.com/artifact/org.apache.shiro/shiro-core"shrio-core")
 
 
 
