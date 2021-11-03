@@ -77,5 +77,12 @@ http.logout().logoutSuccessUrl("/");
 
 (https://mvnrepository.com/artifact/org.apache.shiro/shiro-core"shrio-core")
 
-
+### 5.subject分析
+        Subject currentUser = SecurityUtils.getSubject();
+        Session session = currentUser.getSession();
+        currentUser.isAuthenticated()
+        currentUser.getPrincipal()
+        currentUser.isPermitted("lightsaber:wield")
+        currentUser.hasRole("schwartz")
+        currentUser.logout();
 
